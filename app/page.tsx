@@ -24,6 +24,7 @@ export default function Home() {
         >
           View on GitHub
         </a>
+        <a href='https://corpsec.io'> View Corpsec</a>
       </div>
     </main>
   );
